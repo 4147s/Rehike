@@ -5,9 +5,9 @@
     <i><a href="https://discord.gg/rqBJ9EXDTH">Discord</a></i>
 </p>
 
-Rehike is a custom web frontend server for YouTube.
+Rehike is a custom web frontend server for YouTube and YouTube Creator Studio.
 
-We use it to accurately restore the old YouTube layout and feel, which is known as Hitchhiker. This version of YouTube existed from 2013 to 2020 and is preferred by us due to its speed and simplicity.
+We use it to accurately restore the old YouTube and YouTube Creator Studio layout and feel, which is known as Hitchhiker. This version of YouTube existed from 2013 to 2020 and is preferred by us due to its speed and simplicity.
 
 **Rehike is not a browser extension, nor does it intend to function as one.** Rather, it works over the browser, offering more freedom to what it is allowed to do and greater portability. This makes Rehike browser independent and, to an extent, system independent.
 
