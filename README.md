@@ -48,6 +48,38 @@ Rehike makes use of the following software or services:
 - [Protocol Buffers](//developers.google.com/protocol-buffers/)
 - [Return YouTube Dislike API](https://www.returnyoutubedislike.com/)
 - [BlueLibraries DNS](//github.com/bluelibraries/dns)
+- [Home Page]
+- [Masthead Playlists]
+- [Creator Studio: Dashboard]
+- [Creator Studio: Video Manager]
+- [Creator Studio: Edit Video]
+- [Content ID Videos]
+- [Creator Studio: Playlists]
+- [Creator Studio: Live Streaming]
+- [Creator Studio: Comments]
+- [Creator Studio: Subscribers]
+- [Creator Studio: Status and Features]
+- [Creator Studio: Monetization]
+- [Creator Studio: Community Atributions]
+- [Creator Studio: Audio Library]
+- [Creator Studio: Your Contributions]
+- [Creator Studio: Audio Library]
+- [Creator Studio: Your Contributions]
+- [Settings: Notifications]
+- [Settings: Playback and performance]
+- [Owned Playlist editor]
+- [Owned channel: Feed tab]
+- [Owned channel: Home]
+- [Channel community tab]
+- [Subscribed channel: videos]
+- [Search]
+- [Video watch page]
+- [Live watch page]
+- [Live panel chat]
+- [Age restricted watch page]
+- [Subscriptions feed]
+- [Upload page]
+- [Maniformed video manager]
 
 Use of these third party services is governed by their respective licenses. Where possible, their application will be optional.
 
