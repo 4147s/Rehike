@@ -13,7 +13,7 @@ We use it to accurately restore the old YouTube and YouTube Creator Studio layou
 
 ## Want an easy-to-install extension instead?
 
-Please check out our friend, Vorapis 2013 / V3. This is a browser extension that restores the old YouTube layout in a very similar manner. You can download V3 at https://vorapis.pages.dev.
+Please check out our friend, Vorapis 2013 / V3. This is a browser extension that restores the old YouTube layout in a very similar manner. You can download V3 at https://vorapis.pages.dev. (Do not use V3 use old YouTube Creator Studio layout)
 
 <a href="//vorapis.pages.dev" tooltip="Visit the V3 website">
     <img src=".github/branding/v3_logo.png" width="120">
