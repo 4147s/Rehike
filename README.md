@@ -29,7 +29,26 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Installation
 
-***Rehike is in development. You should not expect a perfect user experience, should you choose to use it.*** If you encounter any problems while using Rehike, [please make an issue](//github.com/Rehike/Rehike/issues) so that we can track them easily.
+***Rehike is in development. You should not expect a perfect user experience, should you choose to use it.*** If you encounter any problems while using Rehike, [please make an issue](//github.com/Rehike/Rehike/issues) so that we can track them easily or:
+
+## Step 1:
+Download the zip file of the repository or click [here](https://github.com/4147s/Rehike/archive/refs/heads/main.zip)
+
+## Step 2:
+Extract the archive to obtain a folder 'Rehike'.
+
+## Step 3
+Open your browser, click on extension icon and go to manage extensions.
+
+## Step 4
+Turn on the developers mode at top-right and click on 'Load unpacked'.
+
+## Step 5
+Finally go inside the Numerade Scraper folder and select the 'Rehike Extension' folder.
+
+## Step 6
+Go to your required numerade question and click on the extension button to see the solution
+
 
 We currently do not support an automated install. If you wish to use Rehike, you must set it up manually. Fortunately, that isn't too hard!
 
